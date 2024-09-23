@@ -1,0 +1,31 @@
+﻿<Window x:Name="imgRosso" x:Class="DatagridTut.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DatagridTut"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" ResizeMode="CanResizeWithGrip">
+    <Grid>
+        <DataGrid x:Name="MiaGrid" ItemsSource="{Binding elencoProdotti}" AutoGenerateColumns="False" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Nome}" Header="Nome prodotto"></DataGridTextColumn>
+                <DataGridTextColumn Binding="{Binding PrezzoTotale}" Header="Prezzo totale"></DataGridTextColumn>
+                <DataGridTemplateColumn Header="Controllo qualità">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Width="16" Height="16" Source="{Binding ImageCheckQuantità}"></Image>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Header="Avvia">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button x:Name="btnPrezzo" Content="Mostra Prezzo" Click="btnPrezzo_Click"></Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

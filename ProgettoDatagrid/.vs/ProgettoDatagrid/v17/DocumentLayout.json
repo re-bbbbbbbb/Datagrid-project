@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rebec\\Desktop\\\uD83E\uDD13\u261D\\ProgettoDatagrid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A07580F2-7CFE-4F04-B842-689572172C88}|DatagridTut\\ProgettoDatagrid.csproj|c:\\users\\rebec\\desktop\\\uD83E\uDD13\u261D\\progettodatagrid\\datagridtut\\listaprodotti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07580F2-7CFE-4F04-B842-689572172C88}|DatagridTut\\ProgettoDatagrid.csproj|solutionrelative:datagridtut\\listaprodotti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07580F2-7CFE-4F04-B842-689572172C88}|DatagridTut\\ProgettoDatagrid.csproj|c:\\users\\rebec\\desktop\\\uD83E\uDD13\u261D\\progettodatagrid\\datagridtut\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07580F2-7CFE-4F04-B842-689572172C88}|DatagridTut\\ProgettoDatagrid.csproj|solutionrelative:datagridtut\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07580F2-7CFE-4F04-B842-689572172C88}|DatagridTut\\ProgettoDatagrid.csproj|c:\\users\\rebec\\desktop\\\uD83E\uDD13\u261D\\progettodatagrid\\datagridtut\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07580F2-7CFE-4F04-B842-689572172C88}|DatagridTut\\ProgettoDatagrid.csproj|solutionrelative:datagridtut\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07580F2-7CFE-4F04-B842-689572172C88}|DatagridTut\\ProgettoDatagrid.csproj|c:\\users\\rebec\\desktop\\\uD83E\uDD13\u261D\\progettodatagrid\\datagridtut\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A07580F2-7CFE-4F04-B842-689572172C88}|DatagridTut\\ProgettoDatagrid.csproj|solutionrelative:datagridtut\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListaProdotti.cs",
+              "DocumentMoniker": "C:\\Users\\rebec\\Desktop\\\uD83E\uDD13\u261D\\ProgettoDatagrid\\DatagridTut\\ListaProdotti.cs",
+              "RelativeDocumentMoniker": "DatagridTut\\ListaProdotti.cs",
+              "ToolTip": "C:\\Users\\rebec\\Desktop\\\uD83E\uDD13\u261D\\ProgettoDatagrid\\DatagridTut\\ListaProdotti.cs",
+              "RelativeToolTip": "DatagridTut\\ListaProdotti.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:29:17.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rebec\\Desktop\\\uD83E\uDD13\u261D\\ProgettoDatagrid\\DatagridTut\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DatagridTut\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\rebec\\Desktop\\\uD83E\uDD13\u261D\\ProgettoDatagrid\\DatagridTut\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DatagridTut\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:28:22.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\rebec\\Desktop\\\uD83E\uDD13\u261D\\ProgettoDatagrid\\DatagridTut\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DatagridTut\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\rebec\\Desktop\\\uD83E\uDD13\u261D\\ProgettoDatagrid\\DatagridTut\\MainWindow.xaml",
+              "RelativeToolTip": "DatagridTut\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-19T12:41:45.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\rebec\\Desktop\\\uD83E\uDD13\u261D\\ProgettoDatagrid\\DatagridTut\\Prodotto.cs",
+              "RelativeDocumentMoniker": "DatagridTut\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\rebec\\Desktop\\\uD83E\uDD13\u261D\\ProgettoDatagrid\\DatagridTut\\Prodotto.cs",
+              "RelativeToolTip": "DatagridTut\\Prodotto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:37:51.897Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
