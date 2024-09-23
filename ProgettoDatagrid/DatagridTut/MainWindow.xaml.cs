@@ -40,17 +40,14 @@ namespace DatagridTut
 
         private void btnPrezzo_Click(object sender, RoutedEventArgs e)
         {
-            // Trova la riga associata al pulsante cliccato
             var button = sender as Button;
             var row = MiaGrid.ItemContainerGenerator.ContainerFromItem(button.DataContext) as DataGridRow;
 
             if (row != null)
             {
-                // Accedi ai dati del prodotto
                 Prodotto prodotto = row.DataContext as Prodotto;
                 if (prodotto != null)
                 {
-                    // Mostra un messaggio con il prezzo del prodotto
                     MessageBox.Show("Il prezzo di " + prodotto.Nome + " è " + prodotto.Prezzo);
                 }
             }
